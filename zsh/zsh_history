@@ -1,0 +1,386 @@
+cleae
+source .zshrc
+sudo apt install fzf
+cd Videos
+cd snap
+cd /
+ll
+nvim .bashrc
+echo $ZINIT_HOME
+cd .local/share/zinit/zinit.git
+fzf
+cat share/git-process-output.zsh
+zinit compiled
+cd
+source ~/.zshrc
+which ga
+which gst
+which glog
+glog
+which gc
+gc -m "fix: skill Duplicate issue"
+which gp
+HOSTNAME -I
+whoami
+nvim .zshrc
+ls Documents
+fzf-preview
+gc -m "fix: Updated match percentage color, Onclick new-tab. create: sort filter."
+nvim sample-form
+gc -m " create: Pagination, Update:filter-section"
+gc -m "Fix:filter-section and sort_filter"
+gc -m "Fix:filter-section"
+gc -m "Update:filter-section json key "
+fg
+git help init
+git help G
+git help -G
+git help -a
+git help -g
+git help -tutorial
+git help tutorial
+clerar\\
+;
+ga.
+gc -m "remove:Response.json"
+git commit -m "menu"
+git stash pop 
+gc -m "filter: size extended, mail modal-chip updated, view cv binded"
+gc -m "mail-button: altered the gap"
+gc -m "Integraion mail, view cv, filter local change updated and mail modal"
+gc -m "Create: debounce time"
+gc -m "Fix: slider changing issue"
+gc -m "logs cleared"
+gc -m "filter slider min max valuen fix"
+gc -m "filter slider fix in all search"
+gc -m "Fix:Search checkbox issue"
+gc -m "Fix:Open in new tab card-details(editpage)"
+gc -m "create: reset card and filter data"
+gc -m "Fix: menu-items order"
+gc -m "Fix: toast for cv not available"
+gc -m "Fix: scroll to section"
+cat > html
+cat > css
+gc -m "Update: cahnged tab name to candidate name"
+npm install ng-circle-progress --save
+gc -m "Update: circle progressbar"
+gc -m "Update: skills highlight all search"
+bash
+gc -m "Update: select all feature resolved"
+nvm 
+nvim ~/.zshrc
+nvim ~/.bashrc
+nvm
+gc -m "Update: clear all - cursor change"
+gc -m "fix: reset issue clearing emails and filters"
+gc -m "Update :email cc added"
+nvim sample-task
+gc -m "Update :resetting mails list on filter change, submit"
+gc -m "Update: Enabled reset button in all search"
+gc -m "Update: last working day switched to calendar"
+gc -m "Fix: pagination unhandeled issue"
+gc -m "create: new logo added"
+sudo dpkg -i *.deb
+gc -m "create: Optimized the filter changes"
+gc -m "update:mail modal send functionality updated"
+gc -m "create: back to top in keyword search page"
+gc -m "Update: tooltip for cards"
+gc -m "Update: filter issue fixed"
+gc -m "Update: card section UI"
+gc -m "Update: card section order and background"
+gc -m "Update: Reset logic updated for switch tab"
+gc -m "Toast updated for cv in search-card"
+gc -m "Fix: Button size updated in sort"
+gc -m "Update: key change for last working day"
+gc -m "Update: temporary placeholder UI changed in keyword search page"
+sudo apt upgrade
+sudo apt install mysql-server
+mysql --version
+sudo mysql -u root -p
+gc -m "Update: message updated when no records found"
+gc -m "Update: UI fix for No results found in keyword search"
+gc -m "Fix: Checkbox id issue fix"
+gc -m "Fix: Last Working Day Date format issue fixed"
+gs
+gc -m "create: Logic for the skills to display, fix:scrollable checkbox section in filters"
+gc -m "create: custom-loader, last working day - edge case resolved "
+npm run dev -- --open
+cd todoz
+sudo rm -r todoz
+cd Documents
+cd ../Practice
+rm todoz
+rm -r todoz
+npm create svelte@latest todoz\
+cd todoz
+rm package-lock.json
+
+open .
+cd Practice/todoz
+npm install -D tailwindcss postcss autoprefixer\
+npx tailwindcss init -p
+npm i -D daisyui@latest
+git stash 
+gc -m "fix: changed cc to lowercase in sent-mail component"
+ga
+gc -m "Update: mail-modal size reduced"
+gc -m "Update: dynamic length updated for skill-chips in search card"
+git commit -m "doc/docx - opening issue resolved"
+gc -m "fix: skill-chips loaded issue resolved"
+gc -m "update: toast included when successfully mail sent"
+npm install svelte-dnd-action
+gc -m "update: mail modal cc default value changed"
+go
+git log --oneline
+git revert 145dd97
+gc -m "fix: PDF blocked issue resolved"
+gc -m "scroll invoking changed to searchcard"
+gc -m "update: budget upper-limit changed to 150"
+git push 
+git branch fix/candidate/cvSection
+git checkout fix/candidate/cvSection
+gc -m "fix: lastudatedoncv date issue fix"
+git push --set-upstream origin fix/candidate/cvSection
+gc -m "fix: lastuploadedon fix in normal search"
+gc -m "fix: scroll down function updated"
+gc -m "fix: scroll logic updated"
+slack
+brave
+brave-browser
+gc -m "update: changed title of keyword search -> keyword search"
+gc -m "create: new checkbox added current designation, disabled and selected toggle as any"
+ng serve --host 0.0.0.0
+git checkout feature/keyword-search/cvHighlight
+git branch feature/keyword-search/cvHighlight
+git branch feature/cvHighlight
+gc -m "create: CV highlight api integrated, created new method for blob"
+git push --set-upstream origin feature/cvHighlight
+ng add test
+npm install pdfjs-dist @types/pdfjs-dist
+ng new test
+ng g c pdfViewer
+npm audit fix --force
+git checkout feature/keyword-search
+git branch -d uifix/keyword-search
+git branch uifix/keyword-search
+git commit -m "header background change in mail modal, history modal. Filter section slider UI - change "
+git push --set-upstream origin uifix/keyword-search
+npm install mysql2 @types/mysql2
+npm install mysql @types/mysql
+npm uninstall mysql @types/mysql
+npm run 
+npm uninstall mysql2 
+node index.js
+ng g c views/candidate/pdf-highlighter 
+git stash
+git checkout feature/cvHighlight
+git stash pop
+npm install pdfjs-dist
+npm install --save-dev @types/pdfjs-dist
+ng g s layout/service/pdf
+ga .
+gc -m "update: cv highlight modal - iframe customized"
+git checkout uifix/keyword-search
+git push
+mv todoz-backend express
+import { toasts, ToastContainer, FlatToast } from 'svelte-toasts'\
+import { goto } from '$app/navigation'\
+import { session } from '$app/stores'\
+import Cookies from 'universal-cookie'\
+import SEO from '$lib/components/SEO/index.svelte'\
+import { toast } from '$lib/util'\
+import { signUp } from '$lib/services'
+npm init
+git branch
+git branch urlfix/keyword-search
+git checkout urlfix/keyword-search
+git status
+git add .
+gc -m "proxy url changed"
+gp
+git push --set-upstream origin urlfix/keyword-search
+npm dev
+npm install @fastify/autoload
+npm install fastify-plugin
+kill -9 24003
+cd ..
+cd 
+mkdir todoz-backend
+cd todoz-backend
+npm init -y\
+npm i fastify\
+npm i -D typescript @types/node\
+\
+
+node
+npm install nodemon
+npm port kill
+lsof -i 
+lsof -i 8080
+history
+lsof -i :3000
+npm install mysql2
+npm install dotenv
+service mysql status
+ncat
+git checkout test
+mysql -u[username] -p -e "SHOW VARIABLES WHERE Variable_Name LIKE '%dir';"
+mysql -u[root] -p -e "SHOW VARIABLES WHERE Variable_Name LIKE '%dir';"
+mysql -uroot -p -e "SHOW VARIABLES WHERE Variable_Name LIKE '%dir';"
+npm uninstall mysql2
+npm i @fastify/mysql
+mkdir src/assets/icons
+git clone https://github.com/delvedor/fastify-example.git
+Team Projects Tasks Reminders
+Team Projects Tasks Reminders Messengers
+cd Txt_Json\ \|\ Temp-files
+nvim index.html
+nvim card.json
+npm i nodemon
+npm i ts-node
+npm install fastify @fastify/mysql\
+npm install -D typescript @types/node
+npm install fastify mysql\
+npm install -D typescript @types/node
+npm i --save-dev @types/mysql
+npm install ts-node --save-dev
+npm i -g typescript
+tsc
+tsc -w index.ts
+tsc index.ts
+npm i @fastify/cors
+npm install fastify-jwt jsonwebtoken\
+
+npm install --save-dev @types/fastify-jwt\
+
+npm uninstall --save-dev @types/fastify-jwt\
+
+npm i @fastify/jwt
+npm i
+npm install @fastify/swagger @fastify/swagger-ui
+npm install @sinclair/typebox
+npm install --save-dev @types/sinclair__typebox
+cd Practice
+mkdir fastify
+git clone https://github.com/betterstack-community/fastify-blog\
+
+cd fastify-blog
+npm i 
+curl http://localhost:3000/ --include
+curl http://localhost:8081/ --include\
+
+git checkout deve
+git checkout development
+git pull
+npm start
+cd Downloads
+wget https://repo.protonvpn.com/debian/dists/stable/main/binary-all/protonvpn-stable-release_1.0.4_all.deb\
+
+sudo dpkg -i protonvpn-stable-release_1.0.4_all.deb
+sudo apt update
+echo "62a9d849835de8a5664cf95329458bf1966780b15cec420bf707b5f7278b9027  protonvpn-stable-release_1.0.4_all.deb" | sha256sum --check -
+[200~sudo apt update && sudo apt upgrade
+sudo apt update && sudo apt upgrade\
+
+tar -xvf LibreOffice_24.8.1_Linux_x86-64_deb.tar.gz
+cd LibreOffice_24.8.1.2_Linux_x86-64_deb
+cd DEBS
+exit
+file .
+pwd
+[200~sudo apt install proton-vpn-gnome-desktop
+sudo apt install proton-vpn-gnome-desktop
+sudo apt install libayatana-appindicator3-1 gir1.2-ayatanaappindicator3-0.1 gnome-shell-extension-appindicator
+curl http://medc.tataiq.com
+curl https://medc.tataiq.com:8383
+curl --insecure https://medc.tataiq.com:8383
+npm install react@latest react-dom@latest next@latest
+npm create vite@latest
+npm run start
+npm install prisma @prisma/client
+npx prisma migrate dev --name init
+prisma format
+npx prisma migrate dev --name passwordTableCreated
+sdn
+mkdir ./{child1,child2}\
+
+mkdir ./{1.laya_raguna, 2.ArunBalaji, 3.Parama_bomika, 4.Siraj_sing, 5.Pavithra, 6.Nisha, 7.Pavithra_sing, 8.Siraj_dance, 9.Bala_speech, 10.Balaji, 11.Thambi_dance}\
+
+mkdir ./{1.laya_raguna,2.ArunBalaji,3.Parama_bomika,4.Siraj_sing,5.Pavithra,6.Nisha,7.Pavithra_sing,8.Siraj_dance,9.Bala_speech,10.Balaji,11.Thambi_dance}
+mpv 1.BASICS_OF_LAW=0115131.mp4
+mpv 1.BASICS_OF_LAW=0115131.mkv
+python3 -m http.server 8081
+ls
+cat 1.BASICS_OF_LAW=0115131.mp4
+hostname -I
+python3 -m http.server 8085
+man x0
+man x
+npx create-next-app@latest
+npm run dev
+npm i fastify
+npm install fastify-cli --global
+fastify
+fastify start
+npm uninstall fastify-cli --global
+npm init -y\
+npm i fastify\
+npm i -D typescript @types/node
+code .
+npm install
+npx tsc --init
+prisma generate
+npm install @prisma/client
+npx prisma init
+mysql -u root -p
+npm prisma format
+prisma
+npx prisma format
+clear
+npx prisma migrate dev --name userTableCreation
+q
+: 1727344850:0;npx prisma format
+: 1727345119:0;npm prisma format
+: 1727345124:0;npx prisma format
+: 1727345773:0;npm prisma format
+: 1727345780:0;npx prisma format
+: 1727345824:0;npx prisma migrate dev --name userStatusTableCreation
+: 1727346372:0;cd src
+: 1727346425:0;mkdir {plugins,schema}
+: 1727351959:0;cd -
+: 1727351976:0;npm install bcrypt
+: 1727352005:0;npm uninstall bcrypt
+: 1727352694:0;npm install bcrypt
+: 1727352765:0;npm install --save-dev @types/bcrypt
+: 1727356807:0;npx prisma migrate dev --name userStatusTableCreation
+: 1727356817:0;npx prisma migrate status
+: 1727365305:0;npm start
+: 1727365758:0;claer
+: 1727365759:0;clear
+: 1727365886:0;npm start
+: 1727367937:0;npm run dev
+: 1727369274:0;npm i lucide-react
+: 1727413606:0;zip -r Practice.zip . -x "*node_modules*"\
+
+: 1727413632:0;clear
+: 1727413736:0;zip -r fastify.zip . -x "*node_modules*"\
+
+: 1727413783:0;zip -r obsidian.zip . -x "*node_modules*"\
+
+: 1727413803:0;cd ~/Pictures
+: 1727413804:0;ls
+: 1727413815:0;zip -r Pictures.zip . -x "*node_modules*"\
+
+: 1727413854:0;cd ~
+: 1727413859:0;cd Txt_Json\ \|\ Temp-files
+: 1727413860:0;ls
+: 1727413863:0;zip -r Pictures.zip . -x "*node_modules*"\
+
+: 1727413933:0;zip -r Videos.zip . -x "*node_modules*"\
+
+: 1727414005:0;cd ~
+: 1727414009:0;cd Documents
+: 1727414039:0;cd ~/Documents
+: 1727414040:0;ls
+: 1727414066:0;zip -r Documents.zip . -x "*node_modules*"\
+
